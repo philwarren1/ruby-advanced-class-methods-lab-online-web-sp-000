@@ -26,4 +26,5 @@ class Song
     @@all << song
     song
   end
+  
 end
